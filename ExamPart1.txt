@@ -1,0 +1,14 @@
+PART I: Prelim Examination
+
+1. Copy a git repository from a remote repository. 
+2. Include a file to be tracked for changes. 
+3. Save the changes to the local repository. 
+4. Save the changes to the remote repository. 
+5. Retrieve the changes of your partner. 
+
+Answers:
+#1: git clone <url>
+#2: git add <file name>
+#3: git commit -m "message"
+#4: git push
+#5: git pull
